@@ -12,7 +12,7 @@ showing how visible the page is to AI search engines like ChatGPT and Perplexity
 ```bash
 cd backend
 python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+./.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
 
