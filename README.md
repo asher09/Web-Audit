@@ -1,4 +1,4 @@
-# Web Audit — GEO Schema Recommender
+# Web Audit - GEO Schema Recommender
 
 A lightweight tool that scrapes any public webpage and returns AI-generated
 Schema.org JSON-LD structured data, plus a GEO Citation Readiness score
